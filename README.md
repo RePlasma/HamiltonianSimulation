@@ -1,5 +1,5 @@
 # HamiltonianSimulation
-Simulation of simple Hamiltonian as in Nielsen and Chuang
+Simulation of simple Hamiltonian as in Nielsen and Chuang 2nd edition section 4.7 p210
 
 Original authors: Michael A. Nielsen, Isaac L. Chuang \
 Reproduced by: Óscar Amaro
